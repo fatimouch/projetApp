@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Marilyn à fleurs rouges",
+        "price": "200€",
+        "img": "https://www.laromainville-professionnels.fr/7901-large_default/piece-montee-marilyn.jpg",
+        "desc": "Tous nos wedding cakes sont composés d'une crème légère (chocolat, vanille, noix de coco, noisette ou fraise) et d'une génoise nature ou chocolat, recouverts d'une fine couche de pâte à sucre.."
+      },
+  {
+        "name": "Pyramide de macarons",
+        "price": "150€",
+        "img": "https://www.laromainville-professionnels.fr/578-large_default/pyramide-de-macarons.jpg",
+        "desc": " Assortiments de macarons gourmands présentés sur leurs supports ) et d'une génoise nature ou chocolat, recouverts d'une fine couche de pâte à sucre.."
+      
+      },
+  {
+        "name": "Fraisier Inscription",
+        "price": "100€",
+        "img": "https://www.laromainville-professionnels.fr/7567-large_default/gateau-personnalise-inscription-fraisier.jpg",
+        "desc": "pour un anniversaire ou pour tout autres événements festifs : naissance, baptême, mariage, fiançailles, départ en retraite, remerciements.."
+      }
+]
